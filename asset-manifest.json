@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Provido-intern/static/css/main.94bccf75.chunk.css",
+    "main.js": "/Provido-intern/static/js/main.b4a911e5.chunk.js",
+    "main.js.map": "/Provido-intern/static/js/main.b4a911e5.chunk.js.map",
+    "runtime-main.js": "/Provido-intern/static/js/runtime-main.c8bbf363.js",
+    "runtime-main.js.map": "/Provido-intern/static/js/runtime-main.c8bbf363.js.map",
+    "static/js/2.b3721bce.chunk.js": "/Provido-intern/static/js/2.b3721bce.chunk.js",
+    "static/js/2.b3721bce.chunk.js.map": "/Provido-intern/static/js/2.b3721bce.chunk.js.map",
+    "index.html": "/Provido-intern/index.html",
+    "precache-manifest.e1f767487f842c1295d44e8abcd69f9b.js": "/Provido-intern/precache-manifest.e1f767487f842c1295d44e8abcd69f9b.js",
+    "service-worker.js": "/Provido-intern/service-worker.js",
+    "static/css/main.94bccf75.chunk.css.map": "/Provido-intern/static/css/main.94bccf75.chunk.css.map",
+    "static/js/2.b3721bce.chunk.js.LICENSE.txt": "/Provido-intern/static/js/2.b3721bce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8bbf363.js",
+    "static/js/2.b3721bce.chunk.js",
+    "static/css/main.94bccf75.chunk.css",
+    "static/js/main.b4a911e5.chunk.js"
+  ]
+}
