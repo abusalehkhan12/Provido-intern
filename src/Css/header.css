@@ -1,0 +1,33 @@
+.header{
+    font-family: algerian;
+    display: flex;
+    flex-direction: ltr;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding-left: 35%;
+    height: 80px;
+}
+.logo{
+    align-content: center;
+    height: 100%;
+    width: auto;
+}
+.headbase{
+    display: inline-block;
+    background-color: rgb(126, 123, 123);
+    height: 50px;
+    display: flex;
+    flex-direction: ltr;
+    color: wheat;
+}
+.vol{
+    float: left;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.address{
+   
+    padding-left: 30px;
+    padding-right: 50px;
+}

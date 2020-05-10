@@ -1,0 +1,49 @@
+.punch{
+    text-align: center;
+    border-bottom: 2px double black;
+    height: 40px;
+    padding:0;
+    margin: 0;
+    background-color: rgb(54, 45, 45);
+   
+}
+.punch_text{
+    color: white;
+    padding-top: 2px;
+    font-family: red serif;
+}
+.body{
+    width: 100%;
+    height: auto;
+    color: white;
+    background-color: azure;
+}
+.articles{
+   background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+  background-color: #aaa;
+  margin: 10px;
+  width:31.7%;
+  height: 350px;
+}
+.title{
+    
+    height: 30%;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+   
+}
+a:hover{
+    color: crimson;
+}
+.frame{
+    width: 90%;
+    height: 60%; 
+}
